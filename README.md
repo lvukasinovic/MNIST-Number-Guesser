@@ -11,3 +11,7 @@ Run the program from the DrawNumber.py file. To generate a neural network model 
 * Pillow
 * Numpy
 
+# Examples
+![7](https://user-images.githubusercontent.com/61170058/81759878-ed444880-9493-11ea-9c84-b3438fe35776.png)
+
+
