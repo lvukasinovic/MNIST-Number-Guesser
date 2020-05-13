@@ -12,6 +12,7 @@ Run the program from the DrawNumber.py file. To generate a neural network model 
 * Numpy
 
 # Examples
-![7](https://user-images.githubusercontent.com/61170058/81759878-ed444880-9493-11ea-9c84-b3438fe35776.png)
+![7](https://user-images.githubusercontent.com/61170058/81759919-077e2680-9494-11ea-88c0-eaf12ccbf550.png)
+
 
 
